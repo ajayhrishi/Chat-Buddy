@@ -1,0 +1,8 @@
+Introduction:
+Over the past year of my experience in the customer support chat industry, I have strongly come to believe that certain tools can improve the efficiency of agents like myself. As I learn JS, MySQL, HTML, CSS, and JS-React, I plan to use my newfound knowledge to create a tool. This repository will serve as a platform for me to improve and apply my knowledge, even though it will be time-consuming.
+
+Login_Page.BP.v0.01.png:
+This image shows the basic structure of the login page we will create. We will add more functionalities in upcoming versions.
+
+Main_page.BP.v0.01.png:
+This image displays the basic structure of the main page. Each icon redirects users to the page containing templates, which can be copied to the clipboard with a single click and pasted into chat.
